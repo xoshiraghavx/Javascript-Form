@@ -27,7 +27,7 @@ font-family: sans-serif;
     padding: 10px 20px;
 }
 .image{
-    background-image: url(../img/17th\ trial\ image.svg);
+    background-image: url(./source/image.svg);
     height: 65%;
     background-repeat: no-repeat;
     background-size: contain;
